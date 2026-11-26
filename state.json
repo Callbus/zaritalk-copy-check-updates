@@ -1,6 +1,22 @@
 {
   "schemaVersion": 1,
-  "lastDeploy": 38,
+  "lastDeploy": 39,
   "criticalFloor": null,
-  "items": []
+  "items": [
+    {
+      "deployNumber": 39,
+      "version": "0.5.0-poc.39",
+      "revision": "4cfd68e493c41931a1861b65b045e28ce0438d62",
+      "notes": "이 버전부터 새 버전이 자동으로 설치됩니다. 도우미가 10분마다 새 버전을 확인하고, 검수 중이 아닐 때 스스로 적용한 뒤 바뀐 점을 알려줍니다. 검수 중이라도 검사기 위쪽의 ‘지금 업데이트’로 바로 적용할 수 있습니다.",
+      "channel": "beta",
+      "publishedAt": "2026-11-26T06:52:31.069Z",
+      "archive": {
+        "url": "https://github.com/Callbus/zaritalk-copy-check-updates/releases/download/d39/ZaritalkCopyCheck-d39.zip",
+        "edSignature": "1CUYW+0PVym1ucQeV9UVPKD+pD0U6PAjGMCkIPF420Kd4LoKTde/8nU4MKDisP5T3YA+EtuH0O69iq9cNTwSCA==",
+        "length": 101188293
+      },
+      "deltas": [],
+      "appSubmission": "a863abc7-8b7d-4504-88fc-429c91a2be5e"
+    }
+  ]
 }
